@@ -1,22 +1,16 @@
-.App {
-  text-align: center;
+.navbar-color-brown{
+  background-color: #5C534E;
 }
 
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.nav-link:{
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.actived {
+  background-color: brown;
+}
+
+.sidebar {
+  min-width: 250px;
+  max-width: 250px;
 }
